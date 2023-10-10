@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 DATA_URL=(
-"./Motor_Vehicle_Collisions_-_Crashes.csv"
+"./MotorVehicleCollisions.csv"
 )
 st.title("Collisions de Véhicules à Moteur à New York ")
 st.markdown("Cette application est un tableau de bord simplifié qui permet d'analyser les collisions de véhicules à moteur à New York")
